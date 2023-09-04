@@ -1,6 +1,5 @@
-==
-This is an Astro 3 starter template with a netlify.toml file to use an example for a bug where Netlify CLI will hang on port 3000 when running `netlify.dev`
-==
+> [!NOTE]
+> This is an Astro 3 starter template with a netlify.toml file to use an example for a bug where Netlify CLI will hang on port 3000 when running `netlify.dev`
 
 # Astro Starter Kit: Basics
 
